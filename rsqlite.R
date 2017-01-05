@@ -1,3 +1,6 @@
+#install.packages("ggplot2")
+#install.packages("RSQLite")
+
 library("RSQLite")
 library("ggplot2")
 
